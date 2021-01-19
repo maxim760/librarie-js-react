@@ -1,3 +1,6 @@
 # librarie-js-react
 библиотеки для реакта и джс
-еще тут разные либы https://reactjsexample.com/tag/emoji/
+еще тут разные либы
+https://reactjsexample.com
+https://reactjsexample.com/tag/emoji/
+
