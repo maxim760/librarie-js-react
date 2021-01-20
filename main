@@ -17,3 +17,7 @@ yarn add react-content-loader
 yarn add react-hook-form
 ----------------------------------------------------------------
 еще всякие https://reactjsexample.com
+
+----
+для запросов React Query
+https://react-query.tanstack.com/overview
