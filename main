@@ -21,3 +21,10 @@ yarn add react-hook-form
 ----
 для запросов React Query
 https://react-query.tanstack.com/overview
+-----------------------------------------------------------------
+Для графиков и диаграмм! НЕ использовал
+amcharts
+anychart
+chart.js
+chartist.js
+d3.js
