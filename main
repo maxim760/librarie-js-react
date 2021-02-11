@@ -32,4 +32,10 @@ d3.js
 Для вспылвающих уведомлений
 https://fkhadra.github.io/react-toastify/installation
 yarn add react-toastify
-
+-----------------------------------------------------------------
+Для таблиц
+yarn add react-table
+-----------------------------------------------------------------
+Для рейтинга
+https://rawgit.com/ndyag/react-rater/master/example/index.html
+yarn add react-rater
