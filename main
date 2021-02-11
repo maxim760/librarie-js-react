@@ -28,3 +28,8 @@ anychart
 chart.js
 chartist.js
 d3.js
+-----------------------------------------------------------------
+Для вспылвающих уведомлений
+https://fkhadra.github.io/react-toastify/installation
+yarn add react-toastify
+
