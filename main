@@ -43,3 +43,6 @@ yarn add react-table
 Для рейтинга
 https://rawgit.com/ndyag/react-rater/master/example/index.html
 yarn add react-rater
+--
+https://popper.js.org/docs/v2/tutorial/
+для css всякие стрелки и итд
