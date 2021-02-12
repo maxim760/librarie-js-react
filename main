@@ -35,6 +35,7 @@ yarn add react-toastify
 -----------------------------------------------------------------
 кастомные хуки 
 https://hooks.umijs.org
+еще вот https://streamich.github.io/react-use/?path=/story/sensors-useevent--docs // это получше
 -----------------------------------------------------------------
 Для таблиц
 yarn add react-table
