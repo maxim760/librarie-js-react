@@ -3,6 +3,11 @@ yarn add i18next i18next-browser-languagedetector i18next-http-backend react-i18
 ----------------------------------------------------------------
 Редактор аватаров
 yarn add react-avatar-editor
+еще вот редактор для фото
+https://pqina.nl/doka/?ref=filepond#project-panel-react
+----------------------------------------------------------------
+Для добалвение картинок / файлов с драгн дропом  и тд 
+https://github.com/pqina/react-filepond
 ----------------------------------------------------------------
 Панель со смайликами
 yarn add emoji-mart
