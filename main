@@ -24,6 +24,11 @@ yarn add react-content-loader
 Для форм 
 yarn add react-hook-form
 ----------------------------------------------------------------
+select и autocomplete
+https://www.npmjs.com/package/react-select
+react select
+там есть пропс отвечающий за возможеость поиска
+----------------------------------------------------------------
 еще всякие https://reactjsexample.com
 
 ----
