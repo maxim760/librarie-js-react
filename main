@@ -40,10 +40,22 @@ d3.js
 Для вспылвающих уведомлений
 https://fkhadra.github.io/react-toastify/installation
 yarn add react-toastify
+yarn add react-tooltip
+-----------------------------------------------------------------
+Табы
+yarn add react-tabs
 -----------------------------------------------------------------
 кастомные хуки 
 https://hooks.umijs.org
 еще вот https://streamich.github.io/react-use/?path=/story/sensors-useevent--docs // это получше
+-----------------------------------------------------------------
+Драгн дроп
+react-dnd
+react-beautiful-dnd
+-----------------------------------------------------------------
+Редактор
+draft.js
+react-quill
 -----------------------------------------------------------------
 Для таблиц
 yarn add react-table
