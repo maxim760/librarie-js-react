@@ -1,4 +1,4 @@
-cross-env - для настройки env во время выполнения скрипта yarn dtsr:dev yarn start:build и тд
+cross-env - для настройки env во время выполнения скрипта yarn starr:dev yarn start и тд
 ----------------------------------------------------------------
 Локализация: i18next
 yarn add i18next i18next-browser-languagedetector i18next-http-backend react-i18next
