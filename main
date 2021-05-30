@@ -3,6 +3,10 @@ cross-env - для настройки env во время выполнения �
 Локализация: i18next
 yarn add i18next i18next-browser-languagedetector i18next-http-backend react-i18next
 ----------------------------------------------------------------
+Иммутабельность
+https://github.com/kolodny/immutability-helper#readme
+yarn add immutability-helper
+----------------------------------------------------------------
 Редактор аватаров
 yarn add react-avatar-editor
 еще вот редактор для фото
@@ -15,7 +19,7 @@ https://github.com/pqina/react-filepond
 https://mikeyparton.github.io/react-speech-kit/
 ----------------------------------------------------------------
 Панель со смайликами
-yarn add emoji-mart
+yarn add emoji-mart, emoji-picker-react
 ----------------------------------------------------------------
 Для дат
 yarn add date-fns
@@ -36,26 +40,13 @@ https://www.npmjs.com/package/react-select
 react select
 там есть пропс отвечающий за возможеость поиска
 ----------------------------------------------------------------
-еще всякие https://reactjsexample.com
-
-----
 для запросов React Query
 https://react-query.tanstack.com/overview
------------------------------------------------------------------
-Для графиков и диаграмм! НЕ использовал
-amcharts
-anychart
-chart.js
-chartist.js
-d3.js
 -----------------------------------------------------------------
 Для вспылвающих уведомлений
 https://fkhadra.github.io/react-toastify/installation
 yarn add react-toastify
 yarn add react-tooltip
------------------------------------------------------------------
-Табы
-yarn add react-tabs
 -----------------------------------------------------------------
 кастомные хуки 
 https://hooks.umijs.org
@@ -72,15 +63,8 @@ react-quill
 Для таблиц
 yarn add react-table
 -----------------------------------------------------------------
-Для рейтинга
-https://rawgit.com/ndyag/react-rater/master/example/index.html
-yarn add react-rater
--------
 https://popper.js.org/docs/v2/tutorial/
-для css всякие стрелки и итд
---
-анимации 
-https://www.framer.com/motion/
-------------------------------------------------------------------
-onClickOutside
-react-cool-onclickoutside
+для css всякие стрелки, поповеры и итд
+-----------------------------------------------------------------
+
+
