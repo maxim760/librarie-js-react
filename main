@@ -63,7 +63,7 @@ react-quill
 Для таблиц
 yarn add react-table
 -----------------------------------------------------------------
-https://popper.js.org/docs/v2/tutorial/
+https://popper.js.org/docs/v2/tutorial/, react-popper @popperjs/core
 для css всякие стрелки, поповеры и итд
 всплывающие подсказки - Tippy.js, @tippyjs/react
 -----------------------------------------------------------------
