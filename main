@@ -1,4 +1,5 @@
 cross-env - для настройки env во время выполнения скрипта yarn starr:dev yarn start и тд
+https://www.npmjs.com/package/deep-equal - Глубокое сравнение 
 ----------------------------------------------------------------
 Локализация: i18next
 yarn add i18next i18next-browser-languagedetector i18next-http-backend react-i18next
