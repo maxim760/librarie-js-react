@@ -5,7 +5,8 @@ https://www.npmjs.com/package/deep-equal - Глубокое сравнение
 yarn add i18next i18next-browser-languagedetector i18next-http-backend react-i18next
 ----------------------------------------------------------------
 https://sweetalert2.github.io
-для алертом / попапов
+для алертов / попапов
+react-confetti - анимация конфетти
 ----------------------------------------------------------------
 Иммутабельность
 https://github.com/kolodny/immutability-helper#readme
