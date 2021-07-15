@@ -4,6 +4,9 @@ https://www.npmjs.com/package/deep-equal - Глубокое сравнение
 Локализация: i18next
 yarn add i18next i18next-browser-languagedetector i18next-http-backend react-i18next
 ----------------------------------------------------------------
+https://sweetalert2.github.io
+для алертом / попапов
+----------------------------------------------------------------
 Иммутабельность
 https://github.com/kolodny/immutability-helper#readme
 yarn add immutability-helper
@@ -12,9 +15,6 @@ yarn add immutability-helper
 yarn add react-avatar-editor
 еще вот редактор для фото
 https://pqina.nl/doka/?ref=filepond#project-panel-react
-----------------------------------------------------------------
-Для добалвение картинок / файлов с драгн дропом  и тд 
-https://github.com/pqina/react-filepond
 ----------------------------------------------------------------
 речь распознование озвучивание
 https://mikeyparton.github.io/react-speech-kit/
@@ -29,6 +29,7 @@ yarn add date-fns
 react-format-number
 // для телефона с кодом разных стран
 npm i react-phone-input-2
+libphonenumber-js
 ----------------------------------------------------------------
 Для загрузки / лоадеров
 yarn add react-content-loader
@@ -40,6 +41,7 @@ select и autocomplete
 https://www.npmjs.com/package/react-select
 react select
 там есть пропс отвечающий за возможеость поиска
+react-dropdown
 ----------------------------------------------------------------
 для запросов React Query
 https://react-query.tanstack.com/overview
@@ -56,6 +58,7 @@ https://hooks.umijs.org
 Драгн дроп
 react-dnd
 react-beautiful-dnd
+react-dropzone - для файлов
 -----------------------------------------------------------------
 Редактор
 draft.js
@@ -64,9 +67,6 @@ react-quill
 Для таблиц
 yarn add react-table
 -----------------------------------------------------------------
-https://popper.js.org/docs/v2/tutorial/, react-popper @popperjs/core
-для css всякие стрелки, поповеры и итд
-всплывающие подсказки - Tippy.js, @tippyjs/react
------------------------------------------------------------------
+
 
 
